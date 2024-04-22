@@ -9,3 +9,5 @@
 
 ## Things in afternoon
 + Meet student
++ Meet simone
++ Arrange OB Test
